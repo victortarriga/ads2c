@@ -1,0 +1,17 @@
+Validar se o sistema ejetor de pessoas está perfeitamente funcional.
+Validar o sistema de reconhecimento facial.
+Validar se o sistema de validação de facial reconhece a mesma pessoa diferentes estilos(roupas, barbas, chapeis e penteados).
+validar se o carro voa.
+Validar se o sistema realiza transções bancaria confiaveis.
+Validar se o sistema de armas funciona.
+Validar se o sistema de rotas estão corretas.
+Validar o sistema de feedback.
+Validar o sistema de rotas dinamicas(de acordo com o feedback seguro).
+Validar se o vidro do carro não desce.
+Validar se o sistema pegue o passageiro mais proximo.
+Validar se o sistema não cobre mais de 10 reais.
+-------------------------------
+
+Teste se o sistema irá ejetar a pessoa quando chegar em 10 dolares.
+Teste se o arco dicionado funciona
+Teste se 
