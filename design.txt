@@ -1,0 +1,3 @@
+Sistema terá um WebService para comunicação e transções de informações.
+Sistema terá reconhecimento facial para autenticação do usuario que está iniciando a viagem.
+Sistema terá modulos de pagamento.

@@ -1,0 +1,14 @@
+O sistema deve gerenciar uma franquia de carros voadores para passageros.
+Desenvolver o carro voador movido a energia termo nuclear de ativo U-233 + PU-239.
+Ter "arco-dicionado".
+Todos os carros são autonomos.
+o Sistema deve identifcar o usuario.
+o Sistema deve linkar na corrida o usuario com o carro.
+Deve controlar o sistema de pagamento, com pagamentos somente no cartão de credito/debitos, 
+pagamentos com picpay e nubank deve ser incluidos.
+Pagamentos via QRCode ou link via SMS.
+Sistema controlar a rota mais viavel e com menos trasito e mostrar o preço da viagem antes do término.
+O sistem deve realizar feedback do percuso no compromisso de aumentar a segurança da rota.
+O Sistema deve ser para maiores de 18 anos.
+Jogará a pessoa para fora do carro quando chegar em 10 dolares de viagem.
+Sistema deve localizar o passageiro/carro mais proximo.

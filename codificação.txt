@@ -1,0 +1,4 @@
+Sistema irá utilizar sistema C# e Python
+C# por conta da integração com o sistema WebService.
+Python para gerenciar o aplicativo no carro.
+Banco de dados em Firebase em tempo real.
