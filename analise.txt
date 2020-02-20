@@ -1,6 +1,5 @@
 O sistema deve gerenciar uma franquia de carros voadores para passageros.
 Desenvolver o carro voador movido a energia termo nuclear de ativo U-233 + PU-239.
-Ter "arco-dicionado".
 Todos os carros são autonomos.
 o Sistema deve identifcar o usuario.
 o Sistema deve linkar na corrida o usuario com o carro.
